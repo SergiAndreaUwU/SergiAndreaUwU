@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sergio Salazar Ordaz AKA @SergiAndreaUwU
+- 👀 I’m interested in Javascript
+- 🌱 I’m currently learning Node.js with Express
+- 📫 @SergioSalazarOrdaz@gmail.com 
